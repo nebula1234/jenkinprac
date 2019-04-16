@@ -1,6 +1,5 @@
-# maven-project
 
-NOTTTT Simple Maven Project VVVVVVVVVVVVVV
-hello world ...testing
 
-next one
+this is from Docker! this is from MAC
+
+
